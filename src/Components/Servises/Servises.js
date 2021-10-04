@@ -34,6 +34,33 @@ const Servises = () => {
           <Card.Link to="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
+
+
+
+      <Card className="w-50 mx-auto my-5">
+        <Card.Img
+          className="w-50 mx-auto"
+          variant="top"
+          src="https://img.freepik.com/free-photo/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking_8353-6408.jpg?size=338&ext=jpg"
+        />
+        <Card.Body>
+          <Card.Title>Teacher Details</Card.Title>
+          <Card.Text>
+            . Even though this is an HTML
+            template, it still helps you save time and cost. No need to start
+            from the ground up anymore; instead, let OnlineEdu do the trick.
+          </Card.Text>
+        </Card.Body>
+        <ListGroup className="list-group-flush">
+          <ListGroupItem>College fee: 212000tk (year)</ListGroupItem>
+          <ListGroupItem>Student : 01</ListGroupItem>
+          <ListGroupItem>Section: Science,,Bsc</ListGroupItem>
+        </ListGroup>
+        <Card.Body>
+          <Card.Link to="#">Apply Online </Card.Link>
+          <Card.Link to="#">Another Link</Card.Link>
+        </Card.Body>
+      </Card>
     </div>
   );
 };
