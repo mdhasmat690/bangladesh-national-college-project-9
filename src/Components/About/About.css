@@ -1,0 +1,42 @@
+.contain {
+  background-color: #e4f9f5;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h3,
+h4 {
+  color: #11999e;
+}
+
+hr {
+  border: solid black 3px;
+  width: 100%;
+  margin: 20px auto;
+  border-bottom-width: none;
+}
+
+.content {
+  margin-bottom: 30px;
+}
+
+.left-div {
+  width: 30%;
+  float: left;
+}
+
+.right-div {
+  width: 70%;
+  float: left;
+}
+
+.comon-hr {
+  border: solid black 1px;
+  border-bottom: none;
+  width: 100%;
+  margin: 20px auto;
+}
+
+.hhh {
+  text-align: justify;
+}

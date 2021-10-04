@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Expert teachers",
+      "cartificate": "Find Educational Websites. Search Faster, Better & Smarter at ZapMeta Now! Web, Images & Video. Information 24/7. Wiki, News & More. 100+ Million Visitors.News & More.",
+      "desc": "When you are searching for the best online school website template, you should not miss OnlineEdu. This bold, impactful and resourceful site canvas gets you going immediately. Even though this is an HTML template, it still helps you save time and cost. No need to start from the ground up anymore; instead, let OnlineEdu do the trick.",
+      "college-fee": 12000,
+      "class": 9,
+      "img": "https://img.freepik.com/free-photo/kids-teacher-celebrating-teacher-s-day_23-2148668597.jpg?size=338&ext=jpg",
+      "country": "Mirpur",
+      "Class-room": 2500,
+      "id": 1
+    },
+    {
+      "name": "Trusted certifications",
+      "cartificate": "a document containing a certified statement especially as to the truth of something specifically : a document certifying that one has fulfilled the requirements of and may practice in a field.",
+      "desc": "When you are searching for the best online school website template, you should not miss OnlineEdu. This bold, impactful and resourceful site canvas gets you going immediately. Even though this is an HTML template, it still helps you save time and cost. No need to start from the ground up anymore; instead, let OnlineEdu do the trick.",
+      "college-fee": 12000,
+      "class": 10,
+      "img": "https://image.freepik.com/free-vector/gradient-elegant-certificate-template_23-2148986817.jpg",
+      "country": "Mirpur 10",
+      "Class-room": 2500,
+      "id": 2
+    },
+    {
+      "name": "500+ Scienc Lab",
+      "cartificate": "Find a Lab. Appointments must be made at least two hours in advance. Walk-ins are also welcome. Please note: not all lab locations offer all services.",
+      "desc": "When you are searching for the best online school website template, you should not miss OnlineEdu. This bold, impactful and resourceful site canvas gets you going immediately. Even though this is an HTML template, it still helps you save time and cost. No need to start from the ground up anymore; instead, let OnlineEdu do the trick.",
+      "college-fee": 12000,
+      "class": 11,
+      "img": "https://img.freepik.com/free-photo/woman-looking-tube-medium-shot_23-2148969962.jpg?size=338&ext=jpg",
+      "country": "AbdullahPur",
+      "Class-room": 2500,
+      "id": 3
+    },
+    {
+      "name": "Big Campus",
+      "cartificate": "Our Campuses The University of Alberta is a busy place — 41,000 students at five separate campus ... Photo of Students on the U of A Augustana Campus.",
+      "desc": "When you are searching for the best online school website template, you should not miss OnlineEdu. This bold, impactful and resourceful site canvas gets you going immediately. Even though this is an HTML template, it still helps you save time and cost. No need to start from the ground up anymore; instead, let OnlineEdu do the trick.",
+      "college-fee": 12000,
+      "class": 12,
+      "img": "https://img.freepik.com/free-photo/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking_8353-6408.jpg?size=338&ext=jpg",
+      "country": "Dhaka",
+      "Class-room": 2500,
+      "id": 4
+    }
+
+]
